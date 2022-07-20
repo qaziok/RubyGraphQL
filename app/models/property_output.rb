@@ -1,0 +1,2 @@
+class PropertyOutput < ApplicationRecord
+end

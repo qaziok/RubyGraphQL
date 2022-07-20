@@ -1,0 +1,2 @@
+class SearchOutput < ApplicationRecord
+end
